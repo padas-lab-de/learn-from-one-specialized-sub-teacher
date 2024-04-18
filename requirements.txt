@@ -1,0 +1,8 @@
+git+https://github.com/huggingface/transformers
+torch==2.0.0
+evaluate==0.4.1
+scipy
+accelerate
+scikit-learn
+
+
